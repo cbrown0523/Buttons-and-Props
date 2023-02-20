@@ -1,0 +1,47 @@
+button.button {
+	border-radius: 4px;
+	cursor: pointer;
+	margin: 2px;
+}
+
+button.sm {
+	padding: 2px 4px;
+}
+
+button.md {
+	padding: 4px 8px;
+}
+
+button.lg {
+	padding: 8px 16px;
+}
+
+button.alternate {
+	border: solid 1px #005f73;
+	color: #fff;
+	background-color: #005f73;
+}
+
+button.alternate2 {
+	border: solid 1px #6a4c93;
+	color: #fff;
+	background-color: #6a4c93;
+}
+
+button.default {
+	border: solid 1px #2b2d42;
+	color: #fff;
+	background-color: #2b2d42;
+}
+
+button.error {
+	border: solid 1px #d90429;
+	color: #fff;
+	background-color: #d90429;
+}
+
+button.warning {
+	border: solid 1px #f7b801;
+	color: #fff;
+	background-color: #f7b801;
+}
